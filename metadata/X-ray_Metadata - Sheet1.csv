@@ -1,0 +1,506 @@
+image_name,category,url
+arm_001.png,arm,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+arm_002.png,arm,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+arm_003.png,arm,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+arm_004.png,arm,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+arm_005.png,arm,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+arm_006.png,arm,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+arm_007.png,arm,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+arm_008.png,arm,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+arm_009.png,arm,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+arm_010.png,arm,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+arm_011.png,arm,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+arm_012.png,arm,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+arm_013.png,arm,https://www.gettyimages.in/photos/arm-xray?page=2
+arm_014.png,arm,https://www.gettyimages.in/photos/arm-xray?page=2
+arm_015.png,arm,https://www.gettyimages.in/photos/arm-xray?page=2
+arm_016.png,arm,https://www.gettyimages.in/photos/arm-xray?page=2
+arm_017.png,arm,https://www.gettyimages.in/photos/arm-xray?page=2
+arm_018.png,arm,https://www.gettyimages.in/photos/arm-xray?page=2
+arm_019.png,arm,https://www.gettyimages.in/photos/arm-xray?page=2
+arm_020.png,arm,https://www.gettyimages.in/photos/arm-xray?page=2
+arm_021.png,arm,https://www.gettyimages.in/photos/arm-xray?page=2
+arm_022.png,arm,https://www.gettyimages.in/photos/arm-xray?page=2
+arm_023.png,arm,https://www.gettyimages.in/photos/arm-xray?page=2
+arm_024.png,arm,https://www.gettyimages.in/photos/arm-xray?page=2
+arm_025.png,arm,https://www.gettyimages.in/photos/arm-xray?page=2
+arm_026.png,arm,https://www.gettyimages.in/photos/arm-xray?page=2
+arm_027.png,arm,https://www.gettyimages.in/photos/arm-xray?page=2
+cervical_spine_001.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_002.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_003.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_004.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_005.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_006.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_007.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_008.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_009.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_010.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_011.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_012.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_013.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_014.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_015.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_016.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_017.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_018.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_019.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_020.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_021.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_022.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_023.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_024.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_025.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_026.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_027.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_028.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_029.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_030.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_031.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_032.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_033.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_034.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_035.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_036.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_037.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_038.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_039.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_040.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_041.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_042.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_043.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_044.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_045.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_046.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_047.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_048.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_049.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_050.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_051.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_052.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_053.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_054.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_055.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_056.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_057.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_058.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_059.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_060.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_061.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_062.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_063.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+cervical_spine_064.png,cervical spine,https://www.scidb.cn/en/detail?dataSetId=8e3b3d5e60a348ba961e19d48b881c90
+chest_001.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_002.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_003.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_004.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_005.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_006.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_007.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_008.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_009.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_010.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_011.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_012.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_013.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_014.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_015.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_016.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_017.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_018.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_019.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_020.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_021.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_022.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_023.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_024.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_025.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_026.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_027.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_028.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_029.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_030.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_031.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_032.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_033.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_034.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_035.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_036.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_037.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_038.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_039.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_040.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_041.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_042.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_043.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_044.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_045.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_046.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_047.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_048.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_049.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_050.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_051.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_052.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_053.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_054.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_055.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_056.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_057.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_058.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_059.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_060.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_061.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_062.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_063.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_064.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_065.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_066.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_067.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_068.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_069.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_070.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_071.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_072.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_073.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_074.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_075.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_076.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_077.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_078.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_079.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_080.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_081.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_082.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_083.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_084.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_085.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_086.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_087.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_088.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_089.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_090.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_091.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_092.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_093.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_094.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_095.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_096.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_097.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_098.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_099.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_100.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_101.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_102.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_103.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_104.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_105.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_106.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_107.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_108.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_109.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_110.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_111.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_112.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_113.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_114.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_115.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_116.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_117.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_118.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_119.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_120.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_121.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_122.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_123.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_124.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_125.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_126.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_127.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_128.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_129.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_130.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_131.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_132.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_133.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_134.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_135.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_136.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_137.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_138.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_139.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_140.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_141.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_142.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_143.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_144.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_145.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_146.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_147.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_148.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_149.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_150.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_151.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_152.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_153.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_154.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_155.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_156.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_157.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_158.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_159.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_160.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_161.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_162.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_163.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_164.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_165.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_166.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_167.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_168.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_169.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+chest_170.jpeg,chest,https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+dental_001.png,dental,https://zenodo.org/records/7812323
+dental_002.png,dental,https://zenodo.org/records/7812323
+dental_003.png,dental,https://zenodo.org/records/7812323
+dental_004.png,dental,https://zenodo.org/records/7812323
+dental_005.png,dental,https://zenodo.org/records/7812323
+dental_006.png,dental,https://zenodo.org/records/7812323
+dental_007.png,dental,https://zenodo.org/records/7812323
+dental_008.png,dental,https://zenodo.org/records/7812323
+dental_009.png,dental,https://zenodo.org/records/7812323
+dental_010.png,dental,https://zenodo.org/records/7812323
+dental_011.png,dental,https://zenodo.org/records/7812323
+dental_012.png,dental,https://zenodo.org/records/7812323
+dental_013.png,dental,https://zenodo.org/records/7812323
+dental_014.png,dental,https://zenodo.org/records/7812323
+dental_015.png,dental,https://zenodo.org/records/7812323
+dental_016.png,dental,https://zenodo.org/records/7812323
+dental_017.png,dental,https://zenodo.org/records/7812323
+dental_018.png,dental,https://zenodo.org/records/7812323
+dental_019.png,dental,https://zenodo.org/records/7812323
+dental_020.png,dental,https://zenodo.org/records/7812323
+dental_021.png,dental,https://zenodo.org/records/7812323
+dental_022.png,dental,https://zenodo.org/records/7812323
+dental_023.png,dental,https://zenodo.org/records/7812323
+dental_024.png,dental,https://zenodo.org/records/7812323
+dental_025.png,dental,https://zenodo.org/records/7812323
+dental_026.png,dental,https://zenodo.org/records/7812323
+dental_027.png,dental,https://zenodo.org/records/7812323
+dental_028.png,dental,https://zenodo.org/records/7812323
+dental_029.png,dental,https://zenodo.org/records/7812323
+dental_030.png,dental,https://zenodo.org/records/7812323
+dental_031.png,dental,https://zenodo.org/records/7812323
+dental_032.png,dental,https://zenodo.org/records/7812323
+dental_033.png,dental,https://zenodo.org/records/7812323
+dental_034.png,dental,https://zenodo.org/records/7812323
+dental_035.png,dental,https://zenodo.org/records/7812323
+dental_036.png,dental,https://zenodo.org/records/7812323
+dental_037.png,dental,https://zenodo.org/records/7812323
+dental_038.png,dental,https://zenodo.org/records/7812323
+dental_039.png,dental,https://zenodo.org/records/7812323
+dental_040.png,dental,https://zenodo.org/records/7812323
+dental_041.png,dental,https://zenodo.org/records/7812323
+dental_042.png,dental,https://zenodo.org/records/7812323
+dental_043.png,dental,https://zenodo.org/records/7812323
+dental_044.png,dental,https://zenodo.org/records/7812323
+dental_045.png,dental,https://zenodo.org/records/7812323
+dental_046.png,dental,https://zenodo.org/records/7812323
+dental_047.png,dental,https://zenodo.org/records/7812323
+dental_048.png,dental,https://zenodo.org/records/7812323
+dental_049.png,dental,https://zenodo.org/records/7812323
+dental_050.png,dental,https://zenodo.org/records/7812323
+foot_001.png,foot,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+foot_002.png,foot,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+foot_003.png,foot,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+foot_004.png,foot,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+foot_005.png,foot,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+foot_006.png,foot,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+foot_007.png,foot,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+foot_008.png,foot,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+foot_009.png,foot,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+foot_010.png,foot,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+foot_011.png,foot,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+foot_012.png,foot,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+foot_013.png,foot,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+foot_014.png,foot,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+foot_015.png,foot,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+foot_016.png,foot,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+foot_017.png,foot,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+foot_018.png,foot,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+foot_019.png,foot,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+foot_020.png,foot,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+foot_021.png,foot,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+foot_022.png,foot,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+foot_023.png,foot,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+hand_001.png,hand,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+hand_002.png,hand,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+hand_003.png,hand,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+hand_004.png,hand,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+hand_005.png,hand,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+hand_006.png,hand,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+hand_007.png,hand,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+hand_008.png,hand,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+hand_009.png,hand,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+hand_010.png,hand,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+hand_011.png,hand,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+hand_012.png,hand,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+hand_013.png,hand,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+hand_014.png,hand,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+hand_015.png,hand,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+hand_016.png,hand,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+hand_017.png,hand,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+hand_018.png,hand,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+hand_019.png,hand,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+hand_020.png,hand,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+hand_021.png,hand,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+hand_022.png,hand,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+hand_023.png,hand,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+hand_024.png,hand,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+hand_025.png,hand,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+hand_026.png,hand,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+hand_027.png,hand,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+hand_028.png,hand,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+hand_029.png,hand,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+leg_001.png,leg,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+leg_002.png,leg,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+leg_003.png,leg,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+leg_004.png,leg,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+leg_005.png,leg,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+leg_006.png,leg,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+leg_007.png,leg,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+leg_008.png,leg,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+leg_009.png,leg,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+leg_010.png,leg,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+leg_011.png,leg,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+leg_012.png,leg,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+leg_013.png,leg,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+leg_014.png,leg,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+leg_015.png,leg,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+leg_016.png,leg,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+leg_017.png,leg,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+leg_018.png,leg,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+leg_019.png,leg,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+leg_020.png,leg,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+leg_021.png,leg,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+leg_022.png,leg,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+leg_023.png,leg,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+leg_024.png,leg,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+leg_025.png,leg,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+leg_026.png,leg,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+leg_027.png,leg,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+leg_028.png,leg,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+leg_029.png,leg,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+leg_030.png,leg,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+leg_031.png,leg,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+leg_032.png,leg,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+leg_033.png,leg,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+leg_034.png,leg,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+leg_035.png,leg,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+leg_036.png,leg,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+leg_037.png,leg,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+leg_038.png,leg,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+skull_001.png,skull,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+skull_002.png,skull,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+skull_003.png,skull,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+skull_004.png,skull,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+skull_005.png,skull,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+skull_006.png,skull,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+skull_007.png,skull,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+skull_008.png,skull,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+skull_009.png,skull,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+skull_010.png,skull,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+skull_011.png,skull,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+skull_012.png,skull,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+skull_013.png,skull,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+skull_014.png,skull,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+skull_015.png,skull,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+skull_016.png,skull,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+skull_017.png,skull,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+skull_018.png,skull,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+skull_019.png,skull,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+skull_020.png,skull,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+skull_021.png,skull,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+skull_022.png,skull,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+skull_023.png,skull,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+skull_024.png,skull,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+skull_025.png,skull,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+skull_026.png,skull,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+skull_027.png,skull,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+skull_028.png,skull,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+skull_029.png,skull,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+skull_030.png,skull,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+spine_001.png,spine,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+spine_002.png,spine,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+spine_003.png,spine,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+spine_004.png,spine,https://huggingface.co/datasets/UniqueData/spine-x-ray/viewer/default/train?row=26&views%5B%5D=train&sql=--+The+SQL+console+is+powered+by+DuckDB+WASM+and+runs+entirely+in+the+browser.%0A--+Get+started+by+typing+a+query+or+selecting+a+view+from+the+options+below.%0ASELECT+*+FROM+train+LIMIT+30%3B
+spine_005.png,spine,https://huggingface.co/datasets/UniqueData/spine-x-ray/viewer/default/train?row=26&views%5B%5D=train&sql=--+The+SQL+console+is+powered+by+DuckDB+WASM+and+runs+entirely+in+the+browser.%0A--+Get+started+by+typing+a+query+or+selecting+a+view+from+the+options+below.%0ASELECT+*+FROM+train+LIMIT+30%3B
+spine_006.png,spine,https://huggingface.co/datasets/UniqueData/spine-x-ray/viewer/default/train?row=26&views%5B%5D=train&sql=--+The+SQL+console+is+powered+by+DuckDB+WASM+and+runs+entirely+in+the+browser.%0A--+Get+started+by+typing+a+query+or+selecting+a+view+from+the+options+below.%0ASELECT+*+FROM+train+LIMIT+30%3B
+spine_007.png,spine,https://huggingface.co/datasets/UniqueData/spine-x-ray/viewer/default/train?row=26&views%5B%5D=train&sql=--+The+SQL+console+is+powered+by+DuckDB+WASM+and+runs+entirely+in+the+browser.%0A--+Get+started+by+typing+a+query+or+selecting+a+view+from+the+options+below.%0ASELECT+*+FROM+train+LIMIT+30%3B
+spine_008.png,spine,https://huggingface.co/datasets/UniqueData/spine-x-ray/viewer/default/train?row=26&views%5B%5D=train&sql=--+The+SQL+console+is+powered+by+DuckDB+WASM+and+runs+entirely+in+the+browser.%0A--+Get+started+by+typing+a+query+or+selecting+a+view+from+the+options+below.%0ASELECT+*+FROM+train+LIMIT+30%3B
+spine_009.png,spine,https://huggingface.co/datasets/UniqueData/spine-x-ray/viewer/default/train?row=26&views%5B%5D=train&sql=--+The+SQL+console+is+powered+by+DuckDB+WASM+and+runs+entirely+in+the+browser.%0A--+Get+started+by+typing+a+query+or+selecting+a+view+from+the+options+below.%0ASELECT+*+FROM+train+LIMIT+30%3B
+spine_010.png,spine,https://huggingface.co/datasets/UniqueData/spine-x-ray/viewer/default/train?row=26&views%5B%5D=train&sql=--+The+SQL+console+is+powered+by+DuckDB+WASM+and+runs+entirely+in+the+browser.%0A--+Get+started+by+typing+a+query+or+selecting+a+view+from+the+options+below.%0ASELECT+*+FROM+train+LIMIT+30%3B
+spine_011.png,spine,https://huggingface.co/datasets/UniqueData/spine-x-ray/viewer/default/train?row=26&views%5B%5D=train&sql=--+The+SQL+console+is+powered+by+DuckDB+WASM+and+runs+entirely+in+the+browser.%0A--+Get+started+by+typing+a+query+or+selecting+a+view+from+the+options+below.%0ASELECT+*+FROM+train+LIMIT+30%3B
+spine_012.png,spine,https://huggingface.co/datasets/UniqueData/spine-x-ray/viewer/default/train?row=26&views%5B%5D=train&sql=--+The+SQL+console+is+powered+by+DuckDB+WASM+and+runs+entirely+in+the+browser.%0A--+Get+started+by+typing+a+query+or+selecting+a+view+from+the+options+below.%0ASELECT+*+FROM+train+LIMIT+30%3B
+spine_013.png,spine,https://huggingface.co/datasets/UniqueData/spine-x-ray/viewer/default/train?row=26&views%5B%5D=train&sql=--+The+SQL+console+is+powered+by+DuckDB+WASM+and+runs+entirely+in+the+browser.%0A--+Get+started+by+typing+a+query+or+selecting+a+view+from+the+options+below.%0ASELECT+*+FROM+train+LIMIT+30%3B
+spine_014.png,spine,https://huggingface.co/datasets/UniqueData/spine-x-ray/viewer/default/train?row=26&views%5B%5D=train&sql=--+The+SQL+console+is+powered+by+DuckDB+WASM+and+runs+entirely+in+the+browser.%0A--+Get+started+by+typing+a+query+or+selecting+a+view+from+the+options+below.%0ASELECT+*+FROM+train+LIMIT+30%3B
+spine_015.png,spine,https://huggingface.co/datasets/UniqueData/spine-x-ray/viewer/default/train?row=26&views%5B%5D=train&sql=--+The+SQL+console+is+powered+by+DuckDB+WASM+and+runs+entirely+in+the+browser.%0A--+Get+started+by+typing+a+query+or+selecting+a+view+from+the+options+below.%0ASELECT+*+FROM+train+LIMIT+30%3B
+fracture_001.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_002.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_003.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_004.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_005.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_006.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_007.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_008.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_009.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_010.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_011.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_012.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_013.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_014.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_015.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_016.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_017.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_018.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_019.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_020.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_021.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_022.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_023.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_024.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_025.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_026.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_027.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_028.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_029.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_030.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_031.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_032.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_033.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_034.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_035.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_036.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_037.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_038.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_039.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_040.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_041.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_042.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_043.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_044.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_045.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_046.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_047.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_048.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_049.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_050.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_051.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_052.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_053.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_054.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_055.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_056.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_057.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_058.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
+fracture_059.jpg,fracture,https://www.kaggle.com/datasets/foyez767/x-ray-images-of-fractured-and-healthy-bones
