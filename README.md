@@ -1,4 +1,3 @@
-```md
 # 🩻 X-Ray Image Search Interface  
 *A Hybrid Image and Text Retrieval System for Medical X-Ray Data*
 
@@ -61,8 +60,6 @@ The **text-based search engine** retrieves X-ray images based on
 ```
 
 src/text_search.py
-
-```
 
 ---
 
