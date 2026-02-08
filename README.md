@@ -56,12 +56,6 @@ The **text-based search engine** retrieves X-ray images based on
 - Enables fast and interpretable search
 - Useful when visual similarity alone is insufficient
 
-📁 Implementation:
-```
-
-src/text_search.py
-
----
 
 ### 2️⃣ Image-Based Search Engine
 
@@ -74,22 +68,6 @@ The **image-based search engine** retrieves X-ray images based on
 - Each image is represented as a numerical feature embedding
 - Embeddings are **L2-normalized**
 - **Cosine similarity** is used to rank images
-
-📁 Implementation:
-```
-
-src/image_search.py
-
-````
-
----
-
-## 🧠 Core Image Search Logic
-
-```python
-similarities = self.embeddings @ query_emb
-top_indices = np.argsort(similarities)[::-1][:top_k]
-````
 
 ---
 
