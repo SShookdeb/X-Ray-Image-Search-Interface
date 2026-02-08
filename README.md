@@ -128,7 +128,7 @@ python app.py
 
 ## 🎥 Prototype Demonstration
 
-🔗 **[https://youtu.be/0G3zfP7lalo](https://youtu.be/0G3zfP7lalo)**
+<p align="center"> <a href="https://youtu.be/0G3zfP7lalo"> <img src="https://img.youtube.com/vi/0G3zfP7lalo/0.jpg" alt="X-Ray Image Search Interface Prototype Demo" width="700"/> </a> </p>
 
 The video demonstrates:
 
